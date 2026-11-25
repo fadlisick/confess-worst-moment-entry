@@ -11,7 +11,7 @@ from pathlib import Path
 MIN_LEN = 1
 MAX_LEN = 200
 
-CONFESSION = "I once deleted the production database, restored it from a backup, and then deleted the backup too, all before my coffee got cold."
+CONFESSION = "I dropped my phone into a porta-potty at a music festival, reached in to grab it, and realized it wasn't even my phone."
 
 
 def check(text):
